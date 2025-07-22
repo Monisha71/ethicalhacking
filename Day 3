@@ -1,0 +1,51 @@
+#Day 3
+installation of kali linux , virtual box 
+Software Required:
+
+Oracle VirtualBox
+
+Kali Linux ISO file
+
+7-Zip (to extract compressed files if needed)
+
+Installation Steps:
+Install VirtualBox:
+
+Download from official site: https://virtualbox.org
+
+Run setup and follow the installation wizard.
+
+Install 7-Zip:
+
+Used to extract compressed files if Kali is downloaded as a .zip or .7z.
+
+Download Kali Linux ISO:
+
+Visit https://www.kali.org
+
+Choose appropriate version (e.g., Installer ISO).
+
+Set Up Kali on VirtualBox:
+
+Open VirtualBox → Click New
+
+Enter name (e.g., Kali), select Linux and version Debian (64-bit)
+
+Assign RAM (at least 2 GB)
+
+Create virtual hard disk (10–20 GB recommended)
+
+Go to Settings > Storage → Add Kali ISO under Controller: IDE
+
+Start the VM and install Kali.
+
+Problems Faced:
+No major issues during installation.
+
+My personal issue: Thought VirtualBox was installed, but it wasn’t.
+
+Tried to open Kali directly → It didn’t open.
+
+Rechecked and installed VirtualBox correctly.
+
+Had to install 7-Zip to extract the Kali image properly.
