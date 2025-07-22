@@ -1,3 +1,33 @@
-Day 1
-Ethical hacking
-# ethicalhacking
+#Day 1
+Ethical hacking (also known as penetration testing or white-hat hacking) is the practice of deliberately probing computer systems, networks, or applications for security vulnerabilities — with permission — to identify and fix potential weaknesses before malicious hackers can exploit them.
+
+Key Points:
+Purpose: To strengthen security by finding and fixing vulnerabilities.
+
+Permission-Based: Ethical hackers always work with proper authorization.
+
+Targets: Can include websites, apps, servers, networks, or devices.
+
+Methods: Often use the same techniques as malicious hackers, such as scanning, social engineering, and exploitation — but with good intentions.
+
+Reporting: Ethical hackers document their findings and suggest ways to fix the issues.
+
+Types of Ethical Hackers:
+White Hat Hackers: Professionals who use their skills ethically to improve security.
+
+Red Teams: Groups that simulate real-world attacks to test an organization’s defenses.
+
+Bug Bounty Hunters: Individuals who find and report bugs to companies in exchange for rewards.
+
+Common Tools Used:
+Nmap – for network scanning
+
+Metasploit – for exploitation
+
+Burp Suite – for web app testing
+
+Wireshark – for packet analysis
+
+Real-World Example:
+If a company hires an ethical hacker to test their online banking system, and the hacker discovers a vulnerability that could let someone transfer money without authorization, the company can fix the issue before someone else exploits it.
+
