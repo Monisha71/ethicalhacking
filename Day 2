@@ -1,1 +1,38 @@
 #Day2
+1.What is GitHub:
+
+GitHub is an online platform used for version control and collaboration.
+
+It allows developers to host and review code, track changes, and work together on projects.
+
+It is based on Git, a distributed version control system.
+
+2.How to Use GitHub:
+
+Create repositories to store code or documents.
+
+Clone repositories to your system using Git.
+
+Commit changes to track updates.
+
+Push changes to GitHub so others can access them.
+
+Pull changes to keep your local copy updated.
+
+3.How to Create an Account:
+
+Visit https://github.com.
+
+Click on Sign Up.
+
+Enter your email, username, and password.
+
+Choose preferences and verify your email to activate the account.
+
+4.How to Add Files to GitHub:
+
+After logging in, click on New Repository.
+
+Give the repository a name and description.
+
+After creating the repo, click on Add File > Upload Files.
